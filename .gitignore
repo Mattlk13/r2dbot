@@ -1,0 +1,28 @@
+# filesystem files
+.DS_Store
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+lib-cov
+
+coverage
+
+.grunt
+
+.lock-wscript
+
+
+build/Release
+node_modules
+
+#do not commit database data
+/db
+
+.idea
